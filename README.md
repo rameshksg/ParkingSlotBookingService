@@ -19,30 +19,30 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 ## Instructions:
 
-# Step1 : 
+### Step1 : 
 
     Clone or download the codebase repo
 
-# Step2:  
+### Step2:  
 
-    Open the VsCode editor (or any other IDE). Hear I explained using in VsCode IDE
+    Open the VsCode editor (or any other IDE). Here I explained using in VsCode IDE
 
-# Step3: 
+### Step3: 
 
-    Right click on the Explorer area on left side, and select "Add Folder to Workspace", choose the repo downloaed in step1.
+    Right click on the Explorer area on left side, and select "Add Folder to Workspace", choose the repo downloaded in step1.
 
-# Step4: 
+### Step4: 
 
     Compile the src folder and its java files (including testcase files) in VsCode if not automatically compiled by VsCode.
 
-# Step5:
+### Step5:
 
     Open the file src/com/elsevier/test/TestApp.java, right click any where in side the file, select "Run Tests in current File". 
     Note: you can find execution sample screenshots in <root-dir>/guide folder.
 
     OR
 
-# Step6: (alternative to Step5)
+### Step6: (alternative to Step4 & Step5)
 
     - To compile from command line, use below commands
 
