@@ -65,8 +65,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 
 `rameshbondiga@rameshbondiga-HP-ProBook-430-G6:~/_2RamWrkspc-bkdp/SampleJava/ParkingSlotBookingService$ java -cp ./lib/junit4-4.8.2.jar:./lib/hamcrest-core-1.3.jar:./bin  org.junit.runner.JUnitCore  com.elsevier.test.TestApp`
-
-`       JUnit version 4.8.2
+        
+        JUnit version 4.8.2
         --------------------------Start : testAllotAndRetrieve
         New ParkingSlotBooking object is created : ParkingSlotBooking [vehNo=NY12345B, slotNo=SLOT1, durationInHrs=1, startTimestampInEpochMillis=1709496205411, startTimestampInString=03/04/2024 01:33:25, endTimestampInEpochMillis=1709499805411, endTimestampInString=03/04/2024 02:33:25, slotBookingId=1]
         Success. SLOT1 slot is allocated for the vehicle NY12345B with BookingId 1
@@ -136,7 +136,6 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
         8 slotBookingId record found.
         ## strParkingSlotReleaseOutput: Successfully released the vehicle from parking slot SLOT1
         List of slot bookings: 
-
         8 slotBookingId record NOT found.
         Failure. No slot record found for the booking id 8
         --------------------------------------End : testReleaseSlot
@@ -148,6 +147,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
         Time: 0.243
 
         OK (7 tests)
-`
+        
+
 
 
