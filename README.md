@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the ParkingSlotBookingService. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the ParkingSlotBookingService. Here is a guideline to help you get started with this application.
 
 ## Folder Structure
 
